@@ -1,0 +1,31 @@
+.programs{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+.program{
+    color: #fff;
+    border-radius: 15px;
+    border: 2px solid #fff;
+    display: block;
+    flex-basis: 31%;
+    height: 250px;
+    margin: 5px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* ----- Media query --------------- */
+
+@media (max-width:650px){
+    .programs{
+        flex-direction: column;
+    }
+    .program{
+        flex-basis: 100%;
+        margin: 20px;
+    }
+}

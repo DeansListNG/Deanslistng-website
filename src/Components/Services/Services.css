@@ -1,0 +1,22 @@
+.services{
+    margin: 80px auto;
+    width: 90%;
+    text-align: center;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.cardss{
+    border: 2px solid #fff;
+    width: 23%;
+    border-radius: 10px;
+    color: #fff;
+    height: 250px;
+}
+.btn.dark-btn{
+    background: #19024f;
+    color: #fff;
+}
