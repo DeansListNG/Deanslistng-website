@@ -28,7 +28,6 @@ const Navbar = () => {
         <li><Link to='program' smooth={true} offset={-360} duration={500}>Get Started</Link></li>
         <li><Link to='about' smooth={true} offset={-160} duration={500}>About Us</Link></li>
         <li><Link to='services' smooth={true} offset={-300} duration={500}>Services</Link></li>
-        <li><Link to='events' smooth={true} offset={-280} duration={500}>Events</Link></li>
         <li><Link to='contact' smooth={true} offset={-255} duration={500}>Contact Us</Link></li>
         <li><Link to='hero' smooth={true} offset={0} duration={500}className='btn'>Join Us!</Link></li>
         

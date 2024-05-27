@@ -17,6 +17,11 @@
     color: aliceblue;
     padding-right: 10px;
 }
+.footer ul li img{
+    width: 20px;
+    cursor: pointer;
+}
+
 
 
 

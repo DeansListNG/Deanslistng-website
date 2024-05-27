@@ -12,7 +12,7 @@ const About = () => {
         </div>
         <div className="about-right">
             <h3>ABOUT DEANSLIST_NG</h3>
-            <h2>Only Possible On Solana</h2>
+            <h2>Our Mission</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             Nesciunt earum neque iure aliquam unde laudantium adipisci, 
             aut qui minima quo, ullam similique obcaecati dolores doloribus nisi labore distinctio aspernatur est.</p>

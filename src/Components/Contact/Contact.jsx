@@ -38,9 +38,9 @@ const Contact = () => {
     <div className='contact'>
        <div className="contact-col">
         <h3>Send us a message <img src={send_icon} alt="" /></h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Culpa sequi dolores quo, eaque esse alias voluptates quos nam quibusdam impedit est rem atque sint,
-        dolorum unde nisi qui natus. Quos.</p>
+        <p>We're all ears! Dive into the conversation using the form feature or explore our contact details below. 
+          Your ideas, questions, and feedback are the fuel for our vibrant web3 community.
+           Let's build the future together!</p>
         <ul>
             <li><a href="mailto:deanslistng@gmail.com"><img src={msg_icon} alt="" />deanslistng@gmail.com</a></li>
             <li><a href="tel:+234 9160340199"><img src={phone_icon} alt="" />+234 9160340199</a></li>

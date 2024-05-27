@@ -9,13 +9,16 @@
 .program{
     color: #fff;
     border-radius: 15px;
-    border: 2px solid #fff;
+    background: linear-gradient(-145.31deg, #23243c 10%, #221c35 47.92%, #350f52 80%);
     display: block;
     flex-basis: 31%;
     height: 250px;
     margin: 5px;
     margin-top: 20px;
     text-align: center;
+    box-shadow: 0 10px 10px rgb(7, 20, 26);
+   
+    
 }
 
 /* ----- Media query --------------- */

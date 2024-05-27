@@ -9,7 +9,7 @@
 }
 
 body{
-    background: #020403f7;
+   background: linear-gradient(125.31deg, #1A1B30 0%, #150E2D 47.92%, #1C082B 100%);
 }
 a{
     text-decoration: none;
@@ -34,6 +34,9 @@ a{
     display: inline-flex;
     align-items: center;
     justify-content: center;
+}
+.btn:hover{
+    background: #bab8b8f0;
 }
 .btn img{
     width: 20px;

@@ -1,6 +1,7 @@
 import React from 'react'
 import './Programs.css'
 
+
 const Programs = () => {
   return (
     <div className='programs' >
@@ -8,7 +9,6 @@ const Programs = () => {
            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ab consectetur corporis neque nesciunt amet asperiores voluptates molestias dolorem ducimus,
             commodi nisi rem eum corrupti aliquid eos error. 
             Culpa, harum. 
-
         </div>
         <div className="program">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
