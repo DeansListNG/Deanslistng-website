@@ -42,5 +42,6 @@
     .program{
         flex-basis: 100%;
         margin: 20px;
+        width: 80%;
     }
 }
