@@ -7,8 +7,8 @@ const Hero = () => {
   return (
     <div className='hero container'>
       <div className="hero-text">
-        <h1>Deanslist ng</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam perspiciatis quo dolore, quia delectus voluptas vitae sint, est porro eligendi reiciendis accusantium facilis rem possimus fugiat rerum, sit ad blanditiis!</p>
+        <h1>Bolstering Solana <br/>Adoption in Africa</h1>
+        <p>We're a community of web3 Power users providing quality reviews of products in the Solana Ecosystem and beyond.</p>
         <a href="https://deanslist.services/" target='_blan'><button className='btn'>Explore more <img src={dark_arrow} alt="" /></button></a>
       </div>
 

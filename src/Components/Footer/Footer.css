@@ -21,6 +21,10 @@
     width: 20px;
     cursor: pointer;
 }
+.footer p img{
+    width: 20px;
+    padding-right: 5px;
+}
 
 
 

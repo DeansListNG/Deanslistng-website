@@ -29,7 +29,8 @@ const Navbar = () => {
         <li><Link to='about' smooth={true} offset={-160} duration={500}>About Us</Link></li>
         <li><Link to='services' smooth={true} offset={-300} duration={500}>Services</Link></li>
         <li><Link to='contact' smooth={true} offset={-255} duration={500}>Contact Us</Link></li>
-        <li><Link to='hero' smooth={true} offset={0} duration={500}className='btn'>Join Us!</Link></li>
+        <a href="https://form.jotform.com/241470897454365" target='_blan
+        '><li><button className='btn' >Join Us!</button> </li></a>
         
        </ul>
        <img src={menu_icon} alt="" className='menu-icon' onClick={toogleMenu}/>

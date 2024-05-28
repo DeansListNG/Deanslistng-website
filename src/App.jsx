@@ -14,7 +14,7 @@ const App = () => {
       <Navbar/>
       <Hero/>
       <div className="containers">
-      <Title subTitle= 'Deanslist' title='Get Started With Us'/>
+      <Title subTitle= 'Deanslist_ng' title='Get Started On Solana'/>
       <Programs/>
       <About/>
       <Title subTitle= 'Our Services' title='What We Offer'/>

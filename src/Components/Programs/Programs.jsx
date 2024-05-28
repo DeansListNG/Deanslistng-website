@@ -6,20 +6,19 @@ const Programs = () => {
   return (
     <div className='programs' >
         <div className="program">
-           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ab consectetur corporis neque nesciunt amet asperiores voluptates molestias dolorem ducimus,
-            commodi nisi rem eum corrupti aliquid eos error. 
-            Culpa, harum. 
+           <h2>WHAT IS SOLANA</h2> 
+           <p>Solana's a fast blockchain for everyone, powering finance, payments, gaming and more. It's open, works with others, and runs without a central authority</p>
         </div>
         <div className="program">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-            Magni commodi ad libero soluta laudantium at quod voluptatibus itaque eos dolore non ut assumenda quo nisi,
-             numquam accusantium iure. Quibusdam, sed?
-
+          <h2>HOW TO ONBOARD</h2>
+          <p>step 1: Create a wallet <br /> 
+             step 2: Fund the wallet <br />
+             step 3: Start interacting <br />with Dapps
+          </p>
         </div>
         <div className="program">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere corporis cum cupiditate mollitia sapiente veniam, sit, 
-            culpa atque commodi dolore perferendis, 
-            eaque in! Ad voluptate ab voluptates tempore. Magni, provident?
+            <h2>BUILD ON SOLANA</h2>
+            <p>If you are a developer with a bit of coding experience you can begin by going through the solana docs and their <a href="https://solana.com/developers" target='_blan'>developer resources</a></p>
 
         </div>
 

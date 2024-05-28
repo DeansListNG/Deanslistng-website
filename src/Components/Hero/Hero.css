@@ -14,7 +14,7 @@
     max-width: 800px;
 }
 .hero-text h1{
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
 
 }
@@ -22,9 +22,9 @@
     max-width: 700px;
     margin: 10px auto 20px;
     line-height: 1.4;
+    font-size: 23px;
 
 }
-
 /* ----- Media query --------------- */
 
 @media  (max-width: 915px) {

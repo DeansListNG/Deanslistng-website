@@ -11,11 +11,8 @@ const About = () => {
         
         </div>
         <div className="about-right">
-            <h3>ABOUT DEANSLIST_NG</h3>
             <h2>Our Mission</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Nesciunt earum neque iure aliquam unde laudantium adipisci, 
-            aut qui minima quo, ullam similique obcaecati dolores doloribus nisi labore distinctio aspernatur est.</p>
+            <p>Onboarding Local Talents In Africa: We provide a platform backed by a community where Potential talents can develop their skills and have access to available work opportunities, driving the success of our region. </p>
         </div>
     </div>
   )
