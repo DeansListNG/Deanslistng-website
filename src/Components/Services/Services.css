@@ -40,6 +40,24 @@
 }
 
 /* ----- Media query --------------- */
+@media (max-width:940px){
+    .cardss{
+        height: 350px;
+    }
+}
+
+@media (max-width:750px){
+    .cards{
+        flex-direction: column;
+    }
+    .cardss{
+        flex-basis: 100%;
+        margin: 20px;
+        width: 80%;
+
+    } 
+}
+
 
 @media (max-width:650px){
     .cards{

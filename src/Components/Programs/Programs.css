@@ -35,7 +35,7 @@
 
 /* ----- Media query --------------- */
 
-@media (max-width:650px){
+@media (max-width:750px){
     .programs{
         flex-direction: column;
     }
