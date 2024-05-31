@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Deanslistng-website/static/css/main.79b4f873.css",
+    "main.css": "/Deanslistng-website/static/css/main.364ec776.css",
     "main.js": "/Deanslistng-website/static/js/main.a26a65b5.js",
     "static/js/453.9b22ac35.chunk.js": "/Deanslistng-website/static/js/453.9b22ac35.chunk.js",
     "static/media/hero.png": "/Deanslistng-website/static/media/hero.6a950341473d3ad703e4.png",
@@ -12,12 +12,12 @@
     "static/media/github-icon.png": "/Deanslistng-website/static/media/github-icon.c657027f4ff39abb341a.png",
     "static/media/location-icon.png": "/Deanslistng-website/static/media/location-icon.8e488cfef2a0b62708d9.png",
     "index.html": "/Deanslistng-website/index.html",
-    "main.79b4f873.css.map": "/Deanslistng-website/static/css/main.79b4f873.css.map",
+    "main.364ec776.css.map": "/Deanslistng-website/static/css/main.364ec776.css.map",
     "main.a26a65b5.js.map": "/Deanslistng-website/static/js/main.a26a65b5.js.map",
     "453.9b22ac35.chunk.js.map": "/Deanslistng-website/static/js/453.9b22ac35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79b4f873.css",
+    "static/css/main.364ec776.css",
     "static/js/main.a26a65b5.js"
   ]
 }
