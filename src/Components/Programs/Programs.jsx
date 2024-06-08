@@ -7,13 +7,13 @@ const Programs = () => {
     <div className='programs' >
         <div className="program">
            <h2>WHAT IS SOLANA</h2> 
-           <p>Solana is a fast blockchain for everyone, powering finance, payments, gaming and more. It's open, works with others, and runs without a central authority.</p>
+           <p><a href="https://solana.com/docs" target='_blan'>Solana</a> is a fast blockchain for everyone, powering finance, payments, gaming and more. It's open, works with others, and runs without a central authority.</p>
         </div>
         <div className="program">
           <h2>HOW TO ONBOARD</h2>
           <p>Step 1: Create a wallet <br /> 
              Step 2: Fund the wallet <br />
-             Step 3: Start interacting <br />with Dapps.
+             Step 3: Start interacting  <br />with <a href="https://solana.com/ecosystem/explore" target='_blan'>dAPPS.</a>
           </p>
         </div>
         <div className="program">
