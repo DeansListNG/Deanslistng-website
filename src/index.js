@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Events from './Components/Events/Events';
-import Navbar from './Components/Events/Navbar1';
+// import Navbar from './Components/Events/Navbar1';
 import {
   createBrowserRouter,
   RouterProvider,
