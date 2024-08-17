@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import './Navbar1.css'
 import logo from '../../assets/logo.png'
 import menu_icon from '../../assets/menu-icon.png'
-import { Link as ScrollLink} from 'react-scroll';
+// import { Link as ScrollLink} from 'react-scroll';
 import { Link } from 'react-router-dom';
 
 
