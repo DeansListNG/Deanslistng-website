@@ -41,6 +41,25 @@
     width: 10%;
     
 }
+
+.eventcompleted{
+    padding-top: 15%;
+    width: 100%;
+    display: flex;
+	flex-direction: row;
+	justify-content: center;
+	
+
+ 
+	
+}
+.eventcompleted h2{
+    font-weight: 800;
+    font-size: 70px;
+    font-style: italic;
+    color: rgb(185, 191, 181);
+}
+
 /* ----- Media query --------------- */
 
 
@@ -60,6 +79,7 @@
     .hero-text1 h1{
         font-size: 40px;
     }
+
 }
 @media  (max-width: 650px){
     #hero1{
@@ -78,6 +98,9 @@
         font-size: 14px;
         margin: 15px auto 30px;
 
+    }
+    .eventcompleted h2{
+        font-size: 50px;
     }
 
 }
